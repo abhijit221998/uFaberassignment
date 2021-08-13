@@ -1,0 +1,37 @@
+.forms {
+    width: 30%;
+    height: 110vh;
+    float: left;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    border: 1px border solid;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.details{
+    width: 50%;
+    height: 100vh;
+    float: left;
+    position: absolute;
+    top: 20%;
+}
+
+#lim{
+    color: red;
+    text-align: center;
+}
+
+.forms button{
+    background-color:rgb(107, 40, 161);
+    padding:8px;
+    color:white;
+}
+
+.forms small,p{
+    color: lightgray;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
